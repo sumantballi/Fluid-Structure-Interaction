@@ -1,3 +1,3 @@
 git add .
-git commit -m "Adjusting order"
+git commit -m "Final adjustment"
 git push origin main
